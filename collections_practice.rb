@@ -3,7 +3,7 @@ def sort_array_asc(integers)
 end  
 
 def sort_array_desc(integers)
-  integers.sort do |right, left|
+  integers.sort do |left, right|
     right <=> left
   end
 end
