@@ -48,6 +48,10 @@ def add_s(arrays)
     if arrays[1] = letter
       letter
     else
+      letter + "s"
+    end
+    letter
+    
 
 
 
