@@ -31,7 +31,7 @@ end
 
 def find_a(strings)
   strings.find_all do |letter|
-    letter = "a"
+    letter[0] = "a"
   end
 end
   
