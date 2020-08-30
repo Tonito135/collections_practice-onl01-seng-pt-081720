@@ -40,7 +40,7 @@ def sum_array(integers)
   integers.each do |total|
     total += total
   end
-  total
+  
 end
 
 
