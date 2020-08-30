@@ -36,6 +36,7 @@ def find_a(strings)
 end
 
 def sum_array(integers)
+  total = 0
   integers
 
 
