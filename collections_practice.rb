@@ -15,4 +15,5 @@ def sort_array_char_count(strings)
 end
 
 def swap_elements(arrays)
-  
+  first_element.index = 1
+  second_element.index = 2
