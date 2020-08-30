@@ -34,7 +34,9 @@ def find_a(strings)
     letter[0] == "a"
   end
 end
-  
+
+def sum_array(integers)
+  integers
 
 
 
