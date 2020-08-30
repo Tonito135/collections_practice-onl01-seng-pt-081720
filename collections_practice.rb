@@ -50,8 +50,8 @@ def add_s(arrays)
     else
       letter + "s"
     end
-    letter
-    
+  end
+end
 
 
 
