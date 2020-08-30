@@ -44,7 +44,8 @@ def sum_array(integers)
 end
 
 def add_s(arrays)
-  
+  arrays.collect do |letter|
+    
 
 
 
