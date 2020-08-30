@@ -43,7 +43,8 @@ def sum_array(integers)
   total
 end
 
-
+def add_s(arrays)
+  
 
 
 
