@@ -31,6 +31,7 @@ end
 
 def find_a(strings)
   
+  
 
 
 
