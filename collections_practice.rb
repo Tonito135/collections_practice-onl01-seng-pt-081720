@@ -30,7 +30,10 @@ def kesha_maker(strings)
 end
 
 def find_a(strings)
-  
+  strings.find_all do |letter|
+    letter = "a"
+  end
+end
   
 
 
