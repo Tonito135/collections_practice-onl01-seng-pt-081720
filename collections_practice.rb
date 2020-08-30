@@ -10,4 +10,6 @@ end
 
 def sort_array_char_count(integers)
   integers.sort do |left, right|
-    int.length 
+    left.length <=> right.length
+  end
+end
