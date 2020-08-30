@@ -28,3 +28,17 @@ def kesha_maker(strings)
     string[2] = "$"
   end
 end
+
+def find_a()
+  
+
+
+
+
+
+
+
+
+
+
+
