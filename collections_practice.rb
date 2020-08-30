@@ -37,7 +37,8 @@ end
 
 def sum_array(integers)
   total = 0
-  integers
+  integers.each do |total|
+    total
 
 
 
