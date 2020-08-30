@@ -7,3 +7,7 @@ def sort_array_desc(integers)
     right <=> left
   end
 end
+
+def sort_array_char_count(integers)
+  integers.sort do |int|
+    int.length 
