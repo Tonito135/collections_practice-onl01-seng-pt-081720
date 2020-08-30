@@ -45,7 +45,7 @@ end
 
 def add_s(arrays)
   arrays.collect do |letter|
-    
+    if arrays = 
 
 
 
